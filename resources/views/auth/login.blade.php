@@ -10,7 +10,7 @@
             <a href="javascript:void(0);"><img class="img-fluid" src="{{ url('images/logo.png') }}" alt="inventory logo"> </a>
             <!-- <small>A Inventory Softwaare</small> -->
         </div>
-        <div class="card">
+        <div class="card rounded">
             <div class="body">
                 <form id="sign_in" method="POST" action="{{ route('login') }}">
                 	  {{ csrf_field() }}

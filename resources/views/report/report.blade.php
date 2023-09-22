@@ -18,7 +18,7 @@
 			<div class="header">
 				<h2>
 					
-					Generate Report
+					Generar Reporte
 					
 				</h2>
 			</div>
@@ -45,7 +45,7 @@
 
 
 					<div class="row text-center">
-						<button type="submit" class="btn bg-teal">Get Report</button>
+						<button type="submit" class="btn bg-teal">Obtener Reporte</button>
 					</div>
 
 

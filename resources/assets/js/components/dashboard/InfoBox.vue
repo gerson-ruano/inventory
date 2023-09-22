@@ -103,7 +103,7 @@
           <div class="content">
             <div class="text">Importe vendido</div>
             <div class="number">
-              <small>$ {{ info.total_sold_amount }}</small>
+              <small>Q {{ info.total_sold_amount }}</small>
             </div>
           </div>
         </div>
@@ -117,7 +117,7 @@
           <div class="content">
             <div class="text">Importe pagado</div>
             <div class="number">
-              <small>$ {{ info.total_paid_amount }}</small>
+              <small>Q {{ info.total_paid_amount }}</small>
             </div>
           </div>
         </div>
@@ -131,7 +131,7 @@
           <div class="content">
             <div class="text">Importe restante</div>
             <div class="number">
-              <small>$ {{ info.total_outstanding }}</small>
+              <small>Q {{ info.total_outstanding }}</small>
             </div>
           </div>
         </div>
@@ -145,7 +145,7 @@
           <div class="content">
             <div class="text">Beneficio bruto</div>
             <div class="number">
-              <small>$ {{ info.total_gross_profit }}</small>
+              <small>Q {{ info.total_gross_profit }}</small>
             </div>
           </div>
         </div>
@@ -159,7 +159,7 @@
           <div class="content">
             <div class="text">Beneficio neto</div>
             <div class="number">
-              <small>$ {{ info.total_net_profit }}</small>
+              <small>Q {{ info.total_net_profit }}</small>
             </div>
           </div>
         </div>
